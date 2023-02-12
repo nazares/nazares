@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sergei</h1>
 ### Software Engineer from Russia, Voronezh</h3>
 
-![nazares](nazares.svg)
+[![nazares](nazares.svg 'nazares')](https://nazares.ru)
 
 - 📫 How to reach me: ...
 <div id="socials" align="center">
