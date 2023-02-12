@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Sergei</h1>
 ### Software Engineer from Russia, Voronezh</h3>
 
+![nazares](nazares.svg)
+
 - 📫 How to reach me: ...
 <div id="socials" align="center">
  <a href="https://vk.com/nazares"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" alt="vk"></a>
