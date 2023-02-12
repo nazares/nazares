@@ -9,8 +9,6 @@
  <a href="https://t.me/nazares"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=VK&logoColor=white" alt="vk"></a>
 </div>
 
-### Hi there 👋
-
 **nazares/nazares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
