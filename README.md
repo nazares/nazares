@@ -29,10 +29,6 @@ Here are some ideas to get you started:
  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazares&theme=github&hide_border=true&layout=compact">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazares&theme=github&show_icons=true&hide_border=true&layout=compact">
  
-![nazares's Stats](https://github-readme-stats.vercel.app/api?username=nazares&theme=github&show_icons=true&hide_border=true&count_private=true)
-![nazares's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazares&theme=github&show_icons=true&hide_border=true&layout=compact)
-![nazares's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nazares&theme=github&hide_border=true&layout=compact)
-
 </div>
 
 ![nazares's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazares&theme=github-light)
