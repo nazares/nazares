@@ -1,8 +1,3 @@
-<a href="https://nazares.ru">
- <img src="/logos/logo-light.svg#gh-dark-mode-only">
- <img src="/logos/logo-dark.svg#gh-light-mode-only">
-</a>
-
 ![nazares](/logos/logo-light.svg#gh-dark-mode-only)
 ![nazares](/logos/logo-dark.svg#gh-light-mode-only)
 
