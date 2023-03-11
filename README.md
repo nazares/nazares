@@ -1,4 +1,14 @@
-[![nazares](nazares.svg 'nazares')](https://nazares.ru)
+<!DOCTYPE html>
+<html
+    lang="en"
+    data-color-mode="auto"
+    data-light-theme="light"
+    data-dark-theme="dark_dimmed"
+>
+
+
+[![nazares](logo.svg 'nazares')](https://nazares.ru)
+
 
 # Hi there 👋, I'm Sergei</h1>
 ### Software Engineer from Russia, Voronezh</h3>
