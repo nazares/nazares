@@ -1,7 +1,24 @@
+[![nazares](nazares.svg 'nazares')](https://nazares.ru)
+
 # Hi there 👋, I'm Sergei</h1>
 ### Software Engineer from Russia, Voronezh</h3>
 
-[![nazares](nazares.svg 'nazares')](https://nazares.ru)
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="100">
+</div>
+
+![](https://komarev.com/ghpvc/?username=nazares)
+
+<details>
+  <summary>Spoiler warning</summary>
+  
+  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  
+  ```javascript
+  console.log("I'm a code block!");
+  ```
+  
+</details>
  
  - 📫 How to reach me: ...
 
