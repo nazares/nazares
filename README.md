@@ -2,13 +2,11 @@
 ### Software Engineer from Russia, Voronezh</h3>
 
 [![nazares](nazares.svg 'nazares')](https://nazares.ru)
-
-<div id="socials" style="display:flex; align-items:center; justify-content:center;width:">
  
  - 📫 How to reach me: ...
- <a href="https://vk.com/nazares"><img align="center" src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" alt="vk"></a>
- <a href="https://t.me/nazares"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram"></a>
-</div>
+
+[![vk.com](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nazares)
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/nazares)
 
 **nazares/nazares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,14 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
+ ![nazare's stats](https://github-readme-stats.vercel.app/api?username=nazares&theme=github&show_icons=true&hide_border=true&count_private=true)
+ ![nazares's streak](https://github-readme-streak-stats.herokuapp.com/?user=nazares&theme=github&hide_border=true)
+ ![nazare's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazares&theme=github&show_icons=true&hide_border=true&layout=compact)
  
- <img width="33%" src="https://github-readme-stats.vercel.app/api?username=nazares&theme=github&show_icons=true&hide_border=true&count_private=true">
- <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=nazares&theme=github&hide_border=true&layout=compact">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazares&theme=github&show_icons=true&hide_border=true&layout=compact">
- 
-</div>
-
 ![nazares's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazares&theme=github-light)
 
 <div id="buymeacoffee" align="center">
