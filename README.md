@@ -1,14 +1,21 @@
-[![nazares](logo.svg 'nazares')](https://nazares.ru)
+<a href="https://nazares.ru">
+ <img src="/logos/logo-light.svg#gh-dark-mode-only">
+ <img src="/logos/logo-dark.svg#gh-light-mode-only">
+</a>
 
+![nazares](/logos/logo-light.svg#gh-dark-mode-only)
+![nazares](/logos/logo-dark.svg#gh-light-mode-only)
 
 # Hi there 👋, I'm Sergei</h1>
 ### Software Engineer from Russia, Voronezh</h3>
 
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="100">
+ 
+ ![](https://komarev.com/ghpvc/?username=nazares)
+ 
 </div>
 
-![](https://komarev.com/ghpvc/?username=nazares)
 
 <details>
   <summary>Spoiler warning</summary>
