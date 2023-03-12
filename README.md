@@ -1,37 +1,30 @@
-![nazares](/logos/logo-light.svg#gh-dark-mode-only)
-![nazares](/logos/logo-dark.svg#gh-light-mode-only)
-
-# Hi there 👋, I'm Sergei</h1>
-### Software Engineer from Russia, Voronezh</h3>
-
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="" width="100">
+ <div id="socials">
+  <a href="https://vk.com/nazares">
+   <img src="https://img.shields.io/badge/vk.com-0077FF?style=for-the-badge&logo=VK&logoColor=white" alt="vk.com">
+  </a>
+  <a href="#">
+   <img src="https://img.shields.io/badge/YouTube-FF5555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/nazares">
+   <img src="https://img.shields.io/badge/Telegram-26A5e4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+  </a>
+ </div>
+  <img src="https://komarev.com/ghpvc/?username=nazares">
+ </div>
  
- ![](https://komarev.com/ghpvc/?username=nazares)
+![nazares](/logos/logo-light.svg#gh-dark-mode-only)
+![nazares](/logos/logo-dark.svg#gh-light-mode-only) 
  
-</div>
-
-
-<details>
-  <summary>Spoiler warning</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
-  
-  ```javascript
-  console.log("I'm a code block!");
-  ```
-  
-</details>
- 
- - 📫 How to reach me: ...
-
-[![vk.com](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nazares)
-[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/nazares)
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>, I'm Sergei
+### Software Engineer from Russia, Voronezh
 
 **nazares/nazares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 📫 How to reach me: ...
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
