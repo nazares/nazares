@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  ![nazares's streak](https://github-readme-streak-stats.herokuapp.com/?user=nazares&theme=github&hide_border=true)
  ![nazare's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazares&theme=github&show_icons=true&hide_border=true&layout=compact)
  
-![nazares's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazares&theme=github-light)
+![nazares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazares&theme=github-light)
 
 <div id="buymeacoffee" align="center">
 <a href="https://www.buymeacoffee.com/nazares" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 119px !important;" ></a>
