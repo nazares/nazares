@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Telegram-26A5e4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
   </a>
    <a href="#">
-   <img src="https://img.shields.io/badge/mastodon-FF5555?style=for-the-badge&logo=mastodon&logoColor=white" alt="YouTube">
+   <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="YouTube">
   </a>
  </div>
   <img src="https://komarev.com/ghpvc/?username=nazares">
